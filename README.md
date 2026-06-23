@@ -17,19 +17,19 @@ A cute emoji battle game built using HTML, CSS and JavaScript.
 _Start Screen_
 
 <p align="center">
-  <img src="screenshots/start-screen.png" width="800">
+  <img src="start-screen.png" width="800">
 </p>
 
 _Gameplay_
 
 <p align="center">
-  <img src="screenshots/gameplay-screen.png" width="800">
+  <img src="gameplay-screen.png" width="800">
 </p>
 
 _Winner Screen_
 
 <p align="center">
-  <img src="screenshots/winner-screen.png" width="800">
+  <img src="winner-screen.png" width="800">
 </p>
 
 🚀 Live Demo
