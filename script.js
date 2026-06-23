@@ -14,7 +14,7 @@ if (!player1 || !player2 || !emoji1 || !emoji2) {
 
 // SOUNDS
 let ting = new Audio("start.mp3");
-let win = new Audio("win.mp3");
+let win = new Audio("gamewin.mp3");
 
 // SCOREBOARD
 let player1Score = 0;
